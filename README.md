@@ -4,7 +4,7 @@ Config API lets you easily manage configuration at scale.
 This Python package provides a native API client for [Cloudmersive Configuration](https://www.cloudmersive.com/)
 
 - API version: v1
-- Package version: 2.4.1
+- Package version: 3.0.1
 - Build package: io.swagger.codegen.languages.PythonClientCodegen
 
 ## Requirements.

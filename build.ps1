@@ -1,5 +1,5 @@
-﻿#Remove-Item –path ./ –recurse
-& java -jar swagger-codegen-cli-2.4.5.jar generate -i https://api.cloudmersive.com/swagger/api/config -l python -c packageconfig.json
+﻿Remove-Item –path ./cloudmersive_configuration_api_client –recurse
+& java -jar swagger-codegen-cli-2.4.14.jar generate -i https://api.cloudmersive.com/swagger/api/config -l python -c packageconfig.json
 
 # Bug fix
 
